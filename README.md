@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 What I'm Working On:<br>I'm building a project inspired by platforms like YouTube and Kick.com, where I’m learning about dynamic user interfaces, video streaming, and scalable backends.<br>🌱 What I'm Learning:<br>I’m exploring React to create engaging front-end applications and working on enhancing my back-end skills with Node.js and Express.<br>💡 What Inspires Me:<br>I love solving real-world problems with code and enjoy learning how modern platforms operate behind the scenes.<br>📫 How to Reach Me:<br>Feel free to connect with me here or check out my projects as I grow my skills and tackle exciting challenges in software development.
+🔭 What I'm Working On:<br>I'm building a project inspired by platforms like YouTube,Kick.com and more, where I’m learning about dynamic user interfaces, video streaming, and scalable backends.<br>🌱 What I'm Learning:<br>I’m exploring React to create engaging front-end applications and working on enhancing my back-end skills with Node.js and Express.<br>💡 What Inspires Me:<br>I love solving real-world problems with code and enjoy learning how modern platforms operate behind the scenes.<br>📫 How to Reach Me:<br>Feel free to connect with me here or check out my projects as I grow my skills and tackle exciting challenges in software development.
 
 
 ## 🌐 Socials:
