@@ -89,6 +89,3 @@ I believe in solving real-world problems through code. My projects are driven by
 </div>
 
 ---
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Govindmanoj2004&icon=7&color=0" alt="Visit Count" />
-</div>
