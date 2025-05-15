@@ -9,7 +9,7 @@ I'm a full-stack developer passionate about building scalable web applications a
 - Exploring modern UI/UX patterns for media applications
 
 ### 🌱 Technical Journey
-I'm continuously expanding my skillset with a focus on React ecosystem for frontend development and Node.js/Express for robust backend solutions. Particularly interested in the challenges of building performant media delivery systems.
+I'm continuously expanding my skillset with a focus on the React ecosystem for frontend development and Node.js/Express for robust backend solutions. Particularly interested in the challenges of building performant media delivery systems.
 
 ### 💡 My Approach
 I believe in solving real-world problems through code. My projects are driven by understanding how modern platforms operate behind the scenes and implementing similar solutions with my own perspective.
@@ -58,12 +58,6 @@ I believe in solving real-world problems through code. My projects are driven by
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### Design & Prototyping
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
 ### Development Tools
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -87,5 +81,3 @@ I believe in solving real-world problems through code. My projects are driven by
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Govindmanoj2004&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </div>
-
----
