@@ -1,7 +1,7 @@
 # 👨‍💻 Govind Manoj
 
 ## 🚀 About Me
-I'm a full-stack developer passionate about building scalable web apps and immersive streaming platforms. Currently working on a dynamic video streaming project inspired by YouTube and Kick.com to explore media delivery at scale and modern UI/UX systems.
+I'm a full-stack developer passionate about building scalable, high-performance web applications and interactive platforms. I specialize in crafting clean, maintainable code and designing intuitive, responsive user interfaces. My development style emphasizes modern UI/UX principles, efficient backend systems, and a strong focus on performance and user experience. I thrive on solving real-world problems through technology and continuously seek opportunities to grow and contribute to impactful projects.
 
 ---
 
