@@ -1,11 +1,5 @@
 # 👨‍💻 Govind Manoj
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Video+Streaming+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</div>
-
----
-
 ## 🚀 About Me
 I'm a full-stack developer passionate about building scalable web apps and immersive streaming platforms. Currently working on a dynamic video streaming project inspired by YouTube and Kick.com to explore media delivery at scale and modern UI/UX systems.
 
@@ -24,14 +18,14 @@ Every project I take on teaches me something new—from designing seamless user 
 ---
 
 ## 💡 Philosophy
-> "Code is a tool. Solving the right problem is the goal."
+> “Code is a tool. Solving the right problem is the goal.”
 
 I thrive on understanding "why" before jumping into the "how." I love breaking complex systems into clean, maintainable solutions that actually make a difference.
 
 ---
 
 ## 🌐 Let's Connect
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/gmrcBFJn)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gmrcBFJn)
 
 ---
 
@@ -79,21 +73,20 @@ I thrive on understanding "why" before jumping into the "how." I love breaking c
 
 ---
 
-## 📈 GitHub Stats
-
+## 📈 GitHub Insights
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Govindmanoj2004&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Govindmanoj2004&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Govindmanoj2004&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Govindmanoj2004&theme=react&hide_border=false" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Govindmanoj2004&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Govindmanoj2004&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 ---
 
 ## ✨ Developer Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
 ---
@@ -101,10 +94,4 @@ I thrive on understanding "why" before jumping into the "how." I love breaking c
 ## 🔝 Top Contributions
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Govindmanoj2004&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Govindmanoj2004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
