@@ -1,14 +1,20 @@
 # 👨‍💻 Govind Manoj
 
 ## 🚀 About Me
-I'm a full-stack developer passionate about building scalable, high-performance web applications and interactive platforms. I specialize in crafting clean, maintainable code and designing intuitive, responsive user interfaces. My development style emphasizes modern UI/UX principles, efficient backend systems, and a strong focus on performance and user experience. I thrive on solving real-world problems through technology and continuously seek opportunities to grow and contribute to impactful projects.
+Hey! I'm a software developer who loves building things that matter.
+Right now, I'm deep into self-taught research—exploring new tech and turning ideas into real, working apps.
+
+What drives me? Solving real problems with clean, thoughtful code. Whether it's crafting smooth UIs, scaling backends, or chasing down late-night bugs—I'm all in.
+
+When I’m not coding, I’m usually digging into new tools, learning how things work under the hood, or helping out in the dev community. I'm here to build, learn, and grow—one project at a time.
 
 ---
 
 ## 🔭 Current Focus
-- 🎥 Developing a full-fledged video streaming platform using **React** and **Node.js**
+- 🚀 Currently deep into self-taught research—exploring new technologies and building things as I go
 - 🧠 Deep-diving into scalable backend architectures and real-time communication
 - 🎨 Exploring intuitive and responsive UI patterns for media-rich platforms
+- 📱 Building cross-platform mobile experiences with **Flutter**
 
 ---
 
@@ -18,7 +24,7 @@ Every project I take on teaches me something new—from designing seamless user 
 ---
 
 ## 💡 Philosophy
-> “Code is a tool. Solving the right problem is the goal.”
+> "Code is a tool. Solving the right problem is the goal."
 
 I thrive on understanding "why" before jumping into the "how." I love breaking complex systems into clean, maintainable solutions that actually make a difference.
 
@@ -34,6 +40,7 @@ I thrive on understanding "why" before jumping into the "how." I love breaking c
 ### 👨‍💻 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -49,6 +56,9 @@ I thrive on understanding "why" before jumping into the "how." I love breaking c
 ![Chakra UI](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
 ### 🛠 Backend
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -58,6 +68,7 @@ I thrive on understanding "why" before jumping into the "how." I love breaking c
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FF6B35?style=for-the-badge&logo=hive&logoColor=white)
 
 ### 🧪 Tools & Utilities
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
