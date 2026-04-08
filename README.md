@@ -31,8 +31,9 @@ I thrive on understanding "why" before jumping into the "how." I love breaking c
 ---
 
 ## 🌐 Let's Connect
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gmrcBFJn)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://im-govind-dev.vercel.app/)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gmrcBFJn)
 ---
 
 ## 🧰 Tech Stack
