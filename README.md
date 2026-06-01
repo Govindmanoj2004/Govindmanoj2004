@@ -6,7 +6,7 @@ Right now, I'm deep into self-taught research—exploring new tech and turning i
 
 What drives me? Solving real problems with clean, thoughtful code. Whether it's crafting smooth UIs, scaling backends, or chasing down late-night bugs—I'm all in.
 
-When I’m not coding, I’m usually digging into new tools, learning how things work under the hood, or helping out in the dev community. I'm here to build, learn, and grow—one project at a time.
+When I'm not coding, I'm usually digging into new tools, learning how things work under the hood, or helping out in the dev community. I'm here to build, learn, and grow—one project at a time.
 
 ---
 
@@ -14,7 +14,7 @@ When I’m not coding, I’m usually digging into new tools, learning how things
 - 🚀 Currently deep into self-taught research—exploring new technologies and building things as I go
 - 🧠 Deep-diving into scalable backend architectures and real-time communication
 - 🎨 Exploring intuitive and responsive UI patterns for media-rich platforms
-- 📱 Building cross-platform mobile experiences with **Flutter**
+- 📱 Building cross-platform mobile experiences with **Ionic**
 
 ---
 
@@ -34,6 +34,7 @@ I thrive on understanding "why" before jumping into the "how." I love breaking c
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://im-govind-dev.vercel.app/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gmrcBFJn)
+
 ---
 
 ## 🧰 Tech Stack
@@ -41,24 +42,21 @@ I thrive on understanding "why" before jumping into the "how." I love breaking c
 ### 👨‍💻 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🎨 Frontend
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
 ### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)
 
 ### 🛠 Backend
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
