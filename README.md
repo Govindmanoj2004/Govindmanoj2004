@@ -40,7 +40,7 @@ I thrive on understanding "why" before jumping into the "how." I love breaking c
 ## 🧰 Tech Stack
 
 ### 👨‍💻 Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -77,10 +77,15 @@ I thrive on understanding "why" before jumping into the "how." I love breaking c
 ---
 
 ## 📈 GitHub Insights
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Govindmanoj2004&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Govindmanoj2004&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Govindmanoj2004&theme=react)
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Govindmanoj2004&theme=react" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Govindmanoj2004&theme=react" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Govindmanoj2004&theme=react" />
+
 </div>
 
 ---
