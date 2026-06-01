@@ -80,9 +80,6 @@ I thrive on understanding "why" before jumping into the "how." I love breaking c
 
 <div align="center">
 
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Govindmanoj2004&theme=github)
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Govindmanoj2004&theme=github" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Govindmanoj2004&theme=github" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Govindmanoj2004&theme=github" />
 
