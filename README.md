@@ -1,48 +1,58 @@
-# <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='14'%20height='14'%3E%3Ccircle%20cx='7'%20cy='7'%20r='7'%20fill='%234169E1'/%3E%3C/svg%3E" width="14" height="14"/> Govind Manoj
-
-<sub>https://im-govind-dev.vercel.app/</sub>
-
-## About Me
+<img src="https://dummyimage.com/14x14/4169e1/4169e1.png" width="14" height="14"/> **Govind Manoj**
 
 Software developer who loves building things that matter — solving real problems with clean, thoughtful code, from smooth UIs to scalable backends. Always exploring new tools and turning ideas into working apps. I love to build and experiment.
 
-## Tech Stack
+### Tech Stack
 
-<table>
+<table border="0">
 <tr>
-<td width="50%" valign="top">
-<h3>Frontend</h3>
+<td valign="top" width="50%">
+
+**Frontend**
 React, Angular, Next.js, Bootstrap, MUI, shadcn/ui, Chart.js
+
 </td>
-<td width="50%" valign="top">
-<h3>Languages</h3>
+<td valign="top" width="50%">
+
+**Languages**
 TypeScript, JavaScript, HTML5, CSS3
+
 </td>
 </tr>
 <tr>
 <td valign="top">
-<h3>Backend</h3>
+
+**Backend**
 Node.js, Express.js, Socket.io
+
 </td>
 <td valign="top">
-<h3>Database</h3>
+
+**Database**
 MySQL, MariaDB, Microsoft SQL Server, Hive
+
 </td>
 </tr>
 <tr>
 <td valign="top">
-<h3>Mobile</h3>
+
+**Mobile**
 Ionic, Capacitor
+
 </td>
 <td valign="top">
-<h3>Desktop</h3>
+
+**Desktop**
 Electron
+
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
-<h3>Tools</h3>
+<td valign="top" colspan="2">
+
+**Tools**
 Vite, Postman, Nodemon
+
 </td>
 </tr>
 </table>
