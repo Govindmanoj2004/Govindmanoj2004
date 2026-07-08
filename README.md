@@ -4,4 +4,4 @@ Software developer who loves building things that matter — solving real proble
 
 #### Tech Stack
 
-<img src="https://github.com/Govindmanoj2004/Govindmanoj2004/raw/main/tech-stack.svg?refresh=5" width="100%"/>
+<img src="https://github.com/Govindmanoj2004/Govindmanoj2004/raw/main/tech-stack.svg?refresh=6" width="100%"/>
