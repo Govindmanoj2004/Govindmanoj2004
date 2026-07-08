@@ -4,4 +4,4 @@ Software developer who loves building things that matter — solving real proble
 
 #### Tech Stack
 
-![Tech Stack](./tech-stack.svg?v=2)
+![Tech Stack](./tech-stack.svg)
